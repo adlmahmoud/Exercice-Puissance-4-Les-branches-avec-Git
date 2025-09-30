@@ -1,4 +1,4 @@
-# Rapport du Projet Puissance 4(Le pc de Chaima etais hs elle n'avait pas de chargeur domc en a utiliser mon pc)
+# Rapport du Projet Puissance 4 (Le pc de Chaima etais hs elle n'avait pas de chargeur donc en a utiliser mon pc)
 ## 1. Conventions adoptées
 ### 1.1 Convention de nommage des branches
 1.feat/ : Nouvelles fonctionnalités
