@@ -1,4 +1,4 @@
-# Rapport du Projet Puissance 4
+# Rapport du Projet Puissance 4(Le pc de Chaima etais hs elle n'avait pas de chargeur domc en a utiliser mon pc)
 ## 1. Conventions adoptées
 ### 1.1 Convention de nommage des branches
 1.feat/ : Nouvelles fonctionnalités
@@ -61,3 +61,6 @@ fix/victory-check - Vérification victoire
 ![](capture/git_develop.png)
 ![](capture/git_feat.png)
 ![](capture/git_branch.png)
+![](capture/git_add.png)
+![](capture/git_colab.png)
+![](capture/supp_hist.png)
